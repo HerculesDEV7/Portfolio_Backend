@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Hercules Santos Ferreira, tenho 27 anos e sou de São Paulo.
+Me chamo Hercules Santos Ferreira, tenho 28 anos e sou de São Paulo.
 Atualmente, curso Análise e Desenvolvimento de Sistemas com ênfase em desenvolvimento backend.
 
 Sou apaixonado por tecnologia e acredito que a construção de sistemas robustos e eficientes é essencial para gerar valor e otimizar processos. Aqui, apresento projetos que refletem minha evolução técnica, prática constante e dedicação ao aprimoramento diário.
